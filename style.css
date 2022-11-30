@@ -1,0 +1,186 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.Navbar{
+    position: sticky;
+    width: 100%;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.logo{
+    position: absolute;
+    top: 2rem;
+    left: 2rem
+}
+
+.blueBox{
+    position: absolute;
+    width: 1136px;
+    height: 51px;
+    left: 177px;
+    top: 222px;
+    background: #0029FF;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+#blueText{
+    width: 36rem;
+    height: 28px;
+    left: 196px;
+    top: 233px;
+    color: white;
+
+}
+
+.sidebar{
+    position: absolute;
+    left: 0rem;
+    top: 11rem;
+}
+
+.sidebarUl{
+    list-style: disc;
+}
+
+.container{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1136px;
+    height: 96rem;
+    left: 177px;
+    top: 273px;
+    background: #FFFFFF;
+    border: 1px solid #F0F0F0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.demoTask{
+    position: absolute;
+    width: 165px;
+    height: 42px;
+    top: 2rem;
+    left: 30rem;
+}
+
+.box{
+    position: absolute;
+    top: 5rem;
+    left: 2rem;
+    width: 21rem;
+    height: 13rem;
+    border: 1px solid black;
+    border-radius: 1rem;
+}
+
+.box1{
+    left: 7rem;
+}
+
+.box2{
+    left: 40rem;
+}
+
+.Head{
+    color: white;
+    background: black;
+    font-size: 21px;
+    text-align: center;
+    border-radius: 1rem 1rem 0 0;
+}
+
+.icon{
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    left: 69rem;
+    top: 1rem;
+    padding: 2px;
+    list-style: none;
+
+}
+
+.componentIcon{
+    position: absolute;
+    padding: 6px;
+    top: 1rem;
+}
+#tool{
+    left: 41px;
+}
+.baseCircle{
+    padding: 3px;
+}
+#dot{
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+}
+#textarea{
+    position: absolute;
+    top: 2rem;
+    left: 1rem;
+    width: 19rem;
+    height: 8rem;
+    border: 1px solid lightgrey;
+}
+#submit{
+    position: absolute;
+    top: 11rem;
+    left: 17rem;
+    color: white;
+    background: #0049f5;
+    border: none;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+.container2{
+    position: absolute;
+    top: 16rem;
+    left: 5rem;
+}
+.box3{
+    height: 612px;
+    width: 452px;
+}
+#pdf{
+    padding: 3rem;
+    border: none;
+}
+.box4{
+    left: 35rem;
+    height: 20rem;
+    width: 24rem;
+}
+
+.container3{
+    position: absolute;
+    top: 57rem;
+}
+.box5{
+    left: 7rem;
+}
+.box6{
+    left: 32rem;
+    width: 36rem;
+    height: 22rem;
+}
+.button{
+    position: absolute;
+    top: 117rem;
+    left: 76rem;
+}
+#submit2{
+    color: white;
+    background: #0049f5;
+    border: none;
+    padding: 9px;
+    border-radius: 5px;
+}
